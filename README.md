@@ -1,0 +1,1 @@
+Pygame game where you shoot ducks. Thats about it. 
